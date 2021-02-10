@@ -4,5 +4,6 @@ namespace CST371
     {
         int GetPerimeter();
         string ToString();
+        int LucasFunct();
     }
 }
