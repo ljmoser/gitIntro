@@ -4,5 +4,9 @@ namespace CST371
     {
         int GetPerimeter();
         string ToString();
+        string KyleL();
+
     }
+
+
 }
